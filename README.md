@@ -25,6 +25,5 @@ const Mobin = {
 <h2>More Info</h2>
 
 <div align="center">
-    <img height="400px" src="https://github-readme-stats.vercel.app/api?username=narko-kh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" />
-    <img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narko-kh&layout=pie&theme=tokyonight" />
+    <img height="400px" src="https://github-readme-stats.vercel.app/api?username=narko-kh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=tokyonight" /><img height="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=narko-kh&layout=pie&theme=tokyonight" />
 </div>
