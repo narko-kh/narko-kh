@@ -7,7 +7,7 @@ const Mobin = {
   createdAt: "2006/7/25",
   country: "Iran",
   city: "Ilam"
-}:
+};
 ```
 
 <h2>Skills</h2>
