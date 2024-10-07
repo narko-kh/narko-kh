@@ -3,7 +3,7 @@
 ```js
 const Mobin = {
   fullName: "Mobin khastehband",
-  role: "Frontend Developer",
+  role: "Frontend Developer (JAM Stack)",
   createdAt: "2006/7/25",
   country: "Iran",
   city: "Ilam"
@@ -13,7 +13,7 @@ const Mobin = {
 <h2>Skills</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,regex,jquery,react,vite,redux,git,npm,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,regex,jquery,react,nextjs,vite,redux,git,npm,cs" />
 </div>
 
 <h2>Tools</h2>
