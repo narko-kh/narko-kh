@@ -13,13 +13,13 @@ const Mobin = {
 <h2>Skills</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,regex,jquery,react,nextjs,vite,redux,git,npm,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,materialui,js,regex,jquery,react,nextjs,vite,redux,graphql,git,npm,cs,cpp" />
 </div>
 
 <h2>Tools</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,postman,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,postman,github,firebase,supabase" />
 </div>
 
 <h2>More Info</h2>
